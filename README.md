@@ -1,6 +1,6 @@
 Introduction to Deep Learning
 ====================================
-COMPTEXT 2023, 11.5.2022
+COMPTEXT 2023, 11.5.2023
 
 
 ## Team 
